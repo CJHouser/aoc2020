@@ -1,2 +1,3 @@
 File structure
-/<github_username>/<language>/
+
+/github_username/language/
